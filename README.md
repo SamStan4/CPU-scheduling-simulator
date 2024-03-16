@@ -7,3 +7,4 @@ Simulates CPU schedulers such as First Come First Serve, Round Robin, and Shorte
 run the command "make" in the terminal and then you can run "make test01", "make test02", or "make test03" to test different batches of processes
 ## Authors/Contributors
 - Sam Stanley (Programmer)
+- Monowar Hasan (provided print functions)
